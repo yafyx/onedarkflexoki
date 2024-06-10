@@ -1,0 +1,33 @@
+{
+  "name": "one-dark-flexoki",
+  "displayName": "One Dark Flexoki",
+  "description": "A custom theme combining One Dark Darker and Flexoki",
+  "version": "1.0.",
+  "engines": {
+    "vscode": "^1.90.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yafyx/onedarkflexoki"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "one dark",
+    "onedark",
+    "one dark darker",
+    "darker",
+    "theme",
+    "flexoki"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "One Dark Flexoki",
+        "uiTheme": "vs-dark",
+        "path": "./themes/One Dark Flexoki-color-theme.json"
+      }
+    ]
+  }
+}
