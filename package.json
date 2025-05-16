@@ -2,8 +2,9 @@
   "name": "one-dark-flexoki",
   "displayName": "One Dark Flexoki",
   "description": "A custom theme combining One Dark Darker and Flexoki",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "publisher": "yfyx",
+  "icon": "images/icon.png",
   "engines": {
     "vscode": "^1.90.0"
   },
