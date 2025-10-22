@@ -2,7 +2,7 @@
 	"name": "one-dark-flexoki",
 	"displayName": "One Dark Flexoki",
 	"description": "A custom theme combining One Dark Darker and Flexoki",
-	"version": "1.1.0",
+	"version": "1.2.0",
 	"publisher": "yfyx",
 	"icon": "images/icon.png",
 	"engines": {
@@ -16,12 +16,12 @@
 		"Themes"
 	],
 	"keywords": [
-		"one dark",
+		"one-dark",
 		"onedark",
-		"one dark darker",
-		"darker",
-		"theme",
-		"flexoki"
+		"flexoki",
+		"zed",
+		"vscode-theme",
+		"theme"
 	],
 	"contributes": {
 		"themes": [
@@ -31,14 +31,14 @@
 				"path": "./themes/One Dark Flexoki-color-theme.json"
 			},
 			{
+				"label": "One Dark Flexoki v2",
+				"uiTheme": "vs-dark",
+				"path": "./themes/One Dark Flexoki v2-color-theme.json"
+			},
+			{
 				"label": "Flexoki Zed",
 				"uiTheme": "vs-dark",
 				"path": "./themes/Flexoki Zed-color-theme.json"
-			},
-			{
-				"label": "Flexoki Dark Harmonized Zed",
-				"uiTheme": "vs-dark",
-				"path": "./themes/One Dark Flexoki Zed-color-theme.json"
 			}
 		]
 	}
